@@ -1,12 +1,13 @@
 .home {
     text-align: center;
     color: var(--color-main-black);
+    padding: 0 0 70px 0;
 }
 
 .home__title {
     font-size: 45px;
     font-weight: 700;
-    margin: 46px 0 22px 0;
+    margin: 0 0 42px 0;
 }
 
 .home__description {
