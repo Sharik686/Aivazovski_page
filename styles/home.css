@@ -35,4 +35,7 @@
         font-size: 14px;
         margin: 0 0 28px 0;
     }
+    .home__image {
+        height: 490px;
+    }
 }

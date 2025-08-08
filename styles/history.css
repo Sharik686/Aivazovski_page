@@ -1,0 +1,38 @@
+.history {
+    text-align: center;
+    margin: 70px 0;
+    color: var(--color-main-black);
+}
+
+.history__title {
+    font-size: 34px;
+    font-weight: 700;
+    margin: 0 0 70px 0;
+}
+
+.photo-history {
+    width: 100%;
+    height: 655px;
+    object-fit: cover;
+}
+
+.photo-description {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 30px 0 0 0;
+}
+
+@media (max-width: 480px) {
+    .history {
+        margin: 50px auto 70px;
+    }
+    .history__title {
+        font-size: 34px;
+    }
+    .photo-history {
+        height: 479px;
+    }
+    .photo-description {
+        font-size: 14px;
+    }
+}
