@@ -1,32 +1,4 @@
-@import url('styles/basic.css');
 @import url('styles/variables.css');
+@import url('styles/basic.css');
 @import url('styles/header.css');
 @import url('styles/home.css');
-@import url('styles/about.css');
-@import url('styles/history.css');
-@import url('styles/portfolio.css');
-@import url('styles/contacts.css');
-@import url('styles/mobile_nav.css');
-
-
-
-@font-face {
-    font-family: roboto-medium;
-    src: url('fonts/Roboto-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: none;
-}
-
-@font-face {
-    font-family: roboto-bold;
-    src: url('fonts/Roboto-Bold.ttf') format('truetype');
-    font-weight: 700;
-    font-style: none;
-}
-
-@font-face {
-    font-family: roboto-black;
-    src: url('fonts/Roboto-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: none;
-}
